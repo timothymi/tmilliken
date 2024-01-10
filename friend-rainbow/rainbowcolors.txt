@@ -2,3 +2,4 @@ Red is the first color
 Orange is the second color
 Yellow is the third color
 Green is the fourth color
+Indigo is the fith color
